@@ -21,7 +21,7 @@
 <br/>  
 
 
-## Rapidfire  
+## What i'm doing right now
 
 - 🌱 I’m currently learning Java and C++  
 
