@@ -63,9 +63,8 @@
 
 ## Certificates
 
-![discover-fundamentar-certificate-1-1](https://user-images.githubusercontent.com/114315098/228955846-a27b62bf-cf22-4f8f-bfe4-ad02b2c936ab.png)
-![discover-conectar-certificate-BlackENG-1](https://user-images.githubusercontent.com/114315098/228955936-04197098-fa75-4cc9-ba0c-46cd3c08ac9c.png)
-
+<img src="https://user-images.githubusercontent.com/114315098/228956196-1e79f2b2-828e-421c-a452-0830af6abad1.png" align="left" style="width: 50%" />
+<img src="https://user-images.githubusercontent.com/114315098/228956155-1a57ceb4-5014-4e21-89e6-bb900d90d786.png" align="right" style="width: 50%" />
 
 <br/>  
 
