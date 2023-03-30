@@ -28,9 +28,9 @@
 
 </td><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomanoel&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomanoel&hide_border=true&layout=compact" align="left" /> <br/>
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
