@@ -1,7 +1,5 @@
 <h3 align="center">A nolife Engineer student from brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jomanoel&label=Profile%20views&color=0e75b6&style=flat" alt="jomanoel" /> </p>
-
 - I’m currently: learning **C++, Java**
 
 - Reach me at: **contact.manoel@proton.me**
