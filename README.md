@@ -63,8 +63,9 @@
 
 ## Certificates
 
-[discover-fundamentar-certificate-1.pdf](https://github.com/JoManoel/Jomanoel/files/11115791/discover-fundamentar-certificate-1.pdf)
-[discover-conectar-certificate-BlackENG.pdf](https://github.com/JoManoel/Jomanoel/files/11115792/discover-conectar-certificate-BlackENG.pdf)
+![discover-fundamentar-certificate-1-1](https://user-images.githubusercontent.com/114315098/228955846-a27b62bf-cf22-4f8f-bfe4-ad02b2c936ab.png)
+![discover-conectar-certificate-BlackENG-1](https://user-images.githubusercontent.com/114315098/228955936-04197098-fa75-4cc9-ba0c-46cd3c08ac9c.png)
+
 
 <br/>  
 
