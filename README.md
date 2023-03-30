@@ -1,7 +1,7 @@
 # **<div align="center">std::cout << "João Manoel" << std::endl;</div>**  
   
 
-### <div align="center">Hey, im Manoel, a Software and Mechanical engineering studend from brazil</div>  
+### <div align="center">Hey, im João Manoel, a Software and Mechanical engineering studend from brazil</div>  
   
 
 -  Learning C++ and Java.  
