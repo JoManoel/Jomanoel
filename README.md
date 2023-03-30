@@ -61,7 +61,10 @@
 
 <br/>  
 
-  
+## Certificates
+
+[discover-fundamentar-certificate-1.pdf](https://github.com/JoManoel/Jomanoel/files/11115791/discover-fundamentar-certificate-1.pdf)
+[discover-conectar-certificate-BlackENG.pdf](https://github.com/JoManoel/Jomanoel/files/11115792/discover-conectar-certificate-BlackENG.pdf)
 
 <br/>  
 
