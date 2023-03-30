@@ -24,6 +24,7 @@
 ## What i'm doing right now
 
 - 🌱 I’m currently learning Java and C++  
+- 📘 I'm working on my portifolio
 
 <br/>  
 
