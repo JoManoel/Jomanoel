@@ -63,8 +63,9 @@
 
 ## Certificates
 
-<img src="https://user-images.githubusercontent.com/114315098/228956196-1e79f2b2-828e-421c-a452-0830af6abad1.png" align="left" style="width: 45%" />
-<img src="https://user-images.githubusercontent.com/114315098/228956155-1a57ceb4-5014-4e21-89e6-bb900d90d786.png" align="right" style="width: 45%" />
+<img src="https://user-images.githubusercontent.com/114315098/228956155-1a57ceb4-5014-4e21-89e6-bb900d90d786.png" align="left" style="width: 49%" />
+<img src="https://user-images.githubusercontent.com/114315098/228956196-1e79f2b2-828e-421c-a452-0830af6abad1.png" align="right" style="width: 49%" />
+
 
 <br/>  
 
