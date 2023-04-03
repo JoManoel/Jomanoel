@@ -21,7 +21,7 @@
 <br/>  
 
 
-## What i'm doing right now
+## Projects
 
 - 🌱 I’m currently learning C++ and will start learning java right after
 
