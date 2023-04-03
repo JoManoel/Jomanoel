@@ -23,8 +23,7 @@
 
 ## What i'm doing right now
 
-- 🌱 I’m currently learning Java and C++  
-- 📘 I'm working on my portifolio
+- 🌱 I’m currently learning C++ and will start learning java right after
 
 <br/>  
 
