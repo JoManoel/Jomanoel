@@ -29,11 +29,11 @@
 
 
 ## Languages and Tools  
-<div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java)](https://skillicons.dev)  
-</div>  
-
-<br/>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
+  </a>
+</p>  
 
 
 ## Github Stats  
